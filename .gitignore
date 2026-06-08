@@ -9,11 +9,8 @@ __pycache__/
 # IDE
 .idea/
 
-# 视频文件（体积太大）
-*.mp4
-
-# 模型权重文件（体积太大）
-*.pt
+# 超大型视频文件（超出 GitHub 100MB 限制）
+traffic.mp4
 
 # 截图输出
 snapshots/
