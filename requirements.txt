@@ -1,0 +1,11 @@
+
+pandas~=2.2.3
+numpy~=1.26.4
+supervision==0.2.0
+ultralytics==8.0.154
+torchvision==0.13.0
+opencv-contrib-python==4.8.0.74
+opencv-python==4.8.0.74
+
+
+img~=2.5

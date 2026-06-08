@@ -1,0 +1,22 @@
+# 虚拟环境
+.venv/
+
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE
+.idea/
+
+# 视频文件（体积太大）
+*.mp4
+
+# 模型权重文件（体积太大）
+*.pt
+
+# 截图输出
+snapshots/
+
+# macOS
+.DS_Store

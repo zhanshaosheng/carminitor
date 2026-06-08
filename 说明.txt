@@ -1,0 +1,12 @@
+
+
+1、运行test.py启动项目
+
+2、环境： Python 3.9
+
+supervision==0.2.0 ultralytics==8.0.154 torchvision==0.13.0 opencv-contrib-python==4.8.0.74 opencv-python==4.8.0.74
+
+
+3、可以替换成自己的视频来检测
+test.py第22行
+cap = cv2.VideoCapture('Vid1.mp4')     # 选择需要检测的视频
